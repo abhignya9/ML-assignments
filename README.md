@@ -1,2 +1,2 @@
 # ML-assignments
-all models from scratch
+All models built from scratch
